@@ -37,7 +37,7 @@ Spacing : 5
 Then Click Build button to run it.
 The cylinders will be created around position (0, 0, 0), please make sure there is nothing to block them.
 
-## Authors
+## Author
 
 * **Eliza Zhang** 
 
